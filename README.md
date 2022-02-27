@@ -8,9 +8,9 @@
 https://katochsenthal.github.io/code-refactor/
 
 ##screenshots
-![screenshot1] (./assets/images/Screen Shot 2022-02-27 at 18.32.43)
-![screenshot1] (./assets/images/Screen Shot 2022-02-27 at 18.32.52)
-![screenshot1] (./assets/images/Screen Shot 2022-02-27 at 18.32.59)
+![screenshot1](assets/images/Screen Shot 2022-02-27 at 18.32.43)
+![screenshot1](assets/images/Screen Shot 2022-02-27 at 18.32.52)
+![screenshot1](assets/images/Screen Shot 2022-02-27 at 18.32.59)
 
 ##Contribution Made with ❤️ by Senthol
 
