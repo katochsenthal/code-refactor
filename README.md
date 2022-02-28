@@ -9,8 +9,7 @@ Marketing solutions like: search engine optimization, online reputation manageme
 ##Website 
 https://katochsenthal.github.io/code-refactor/
 
-##screenshots
-md
+##Usage
 ![screenshot1](assets/images/screenshot1.png)
 ![screenshot1](assets/images/screenshot2.png)
 ![screenshot1](assets/images/screenshot3.png)
