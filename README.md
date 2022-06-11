@@ -1,22 +1,29 @@
-##Horiseon
+# Horiseon
 
-##Purpose 
-A website that offers marketing solutions 
+## Purpose
+
+A website that offers marketing solutions
 Marketing solutions like: search engine optimization, online reputation management and social media marketing. Website also outlines the benefits of these solutions.
 
-##Build with *HTML *CSS
+## Build with
 
-##Website 
+- HTML
+- CSS
+
+## Live Website
+
 https://katochsenthal.github.io/code-refactor/
 
-##Usage
+## Usage
+
 ![screenshot1](assets/images/screenshot1.png)
 ![screenshot1](assets/images/screenshot2.png)
 ![screenshot1](assets/images/screenshot3.png)
 
-##Credit
+## Credit
+
 Original starter code downloaded from Github:coding-boot-camp/urban-octo-telegram
 
-##Contribution Made with ❤️ by Senthol
+## Contribution Made with ❤️ by Senthol
 
 © 2019 Horiseon Social Solution Services, Inc.
